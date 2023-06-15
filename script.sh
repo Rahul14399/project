@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 
 echo"this is my script"
-echo"heyyy"
+echo"heyyy hello"
 whoami
