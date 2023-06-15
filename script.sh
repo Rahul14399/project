@@ -1,5 +1,2 @@
-#!/usr/bin/bash
+heyyy hello
 
-echo"this is my script"
-echo"heyyy hello"
-whoami
